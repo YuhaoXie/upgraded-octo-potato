@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
  
-const char *WIFI_SSID = "3145 Wellington";
-const char *WIFI_PASSWORD = "Ucanguess";
+const char *WIFI_SSID = "***";
+const char *WIFI_PASSWORD = "****";
  
 const char *URL = "https://hooks.slack.com/services/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";
 const char *FINGERPRINT = "82aefd933630da030a2f6353de2eb0438bf441f6";
